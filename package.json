@@ -32,7 +32,9 @@
   "dependencies": {
     "@babel/runtime": "^7.24.7",
     "@babel/runtime-corejs3": "^7.24.7",
+    "aws-sdk": "^2.1658.0",
     "core-js": "^3.37.1",
+    "dotenv": "^16.4.5",
     "express": "^4.19.2"
   }
 }
