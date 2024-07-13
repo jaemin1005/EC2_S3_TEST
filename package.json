@@ -30,6 +30,7 @@
     "webpack-cli": "^5.1.4"
   },
   "dependencies": {
+    "@aws-sdk/client-s3": "^3.614.0",
     "@babel/runtime": "^7.24.7",
     "@babel/runtime-corejs3": "^7.24.7",
     "aws-sdk": "^2.1658.0",
